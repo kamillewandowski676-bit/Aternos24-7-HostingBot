@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Ro_Gho.aternos.me",
-    "port": 30958,
+    "ip": "KitPvPme.aternos.me",
+    "port": 21599
+  ,
     "version": "",
     "try-creative": false
   },
